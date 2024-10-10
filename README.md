@@ -1,1 +1,1 @@
-# f1-scheduler
+# F1 scheduler
